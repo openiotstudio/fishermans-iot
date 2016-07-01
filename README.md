@@ -71,7 +71,7 @@ People and technologies are part of the same network and they cannot prescind fr
 
 ## 5. A technology should be robust within its environment 
 
-<img src="img/06_compass.jpg">
+<img src="img/05_compass.jpg">
 
 Fishermen make use of several modes of navigation. There are those that are observable to the naked eye such as landmarks and other orientational technologies such as compasses, maps, and stars. When visual cues can not be of service, such as in a fog, audial cues come from a fog horn. Later sonar, radar, and GPS joined the menu of tools available. Each of these tools are resistant to the natural elements that the fisherman faces: rain, sea water, changes in incline, and wind. Also, none of these technologies retired the others—they complement each other and serve as mutual failsafes. 
 
