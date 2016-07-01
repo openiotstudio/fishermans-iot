@@ -29,6 +29,8 @@ These constraints can provide valuable guidance for the way we can design, and t
 
 ## 1. IoT systems, like boats, are ecosystems
 
+<img src="img/01_post_it.jpg">
+
 The vessel is operated by a finely tuned and responsive ecosystem. The boat is an ecology of the relationships among several notable nodes. It is where people, materials, technologies, and the environment converge and work together. 
 
 This ecosystem responds constantly to its environment: weather conditions will determine how the boat is powered (engine vs. sail), and how people work together to operate that technology.
@@ -36,6 +38,8 @@ This ecosystem responds constantly to its environment: weather conditions will d
 The same should happen in a networked space (a home, a village, a city), where all nodes are equally important and each has its role. IoT is more than the Internet in Things. It is an ecosystem comprised of all the nodes that play a part.
 
 ## 2. Materials live and change
+
+<img src="img/02_fishermen.jpg">
 
 The wood that a boat is made of is never static, it changes shape and size based on how much water it has absorbed, and the content of salt in that water. It is constantly in flux. A fisherman and a boat maker respond to these changes in their materials to keep the boat seaworthy. 
 
@@ -45,6 +49,8 @@ The materials of an IoT are also not static. The IoT also consists of familiar p
 
 ## 3. People are nodes in the IoT 
 
+<img src="img/03_ladder.jpg">
+
 A fishing vessel is a complex technology that requires several sailors to operate. To ensure that the vessel can run smoothly, every crew member needs to be able to cover all the basics and to work together in synergy. The Reaper required 8 men and a boy to operate. The line of vision from the helm to the front of the boat is obstructed by masts and equipment. Navigating alone required one man at the steering wheel, and another upfront to serve as the eyes of the captain. 
 
 In the boat people worked collaboratively with technologies to perform the tasks needed. Humans were also nodes of the vessel’s ecosystem. 
@@ -52,6 +58,8 @@ In the boat people worked collaboratively with technologies to perform the tasks
 IoT technologies should not replace people, but instead integrate and support them. 
 
 ## 4. Technology should be legible to people 
+
+<img src="img/04_sean.jpg">
 
 A vessel was not stocked with many tools, but the tools that were there were those that could be utilized for many purposes. It was apparent how these tools could be used: rope could be used to hoist a sail, bind a broken rudder in an emergency, and when it was weak, be re-woven as a buoy to protect the side of the boat from scratches.  
 
@@ -62,6 +70,8 @@ Nodes in IoT should not be black boxes. They should be legible to the general us
 People and technologies are part of the same network and they cannot prescind from each other. 
 
 ## 5. A technology should be robust within its environment 
+
+<img src="img/06_compass.jpg">
 
 Fishermen make use of several modes of navigation. There are those that are observable to the naked eye such as landmarks and other orientational technologies such as compasses, maps, and stars. When visual cues can not be of service, such as in a fog, audial cues come from a fog horn. Later sonar, radar, and GPS joined the menu of tools available. Each of these tools are resistant to the natural elements that the fisherman faces: rain, sea water, changes in incline, and wind. Also, none of these technologies retired the others—they complement each other and serve as mutual failsafes. 
 
@@ -76,3 +86,7 @@ The Herring Drifter the Reaper was originally designed to hold a massive mast th
 Things don’t have to be perfect. Instead of aiming for what is theoretically ideal, the practices that prevail are those that are effective and realistic. These are systems where parts can be adopted and incorporated into other parts, and make sense in their own environment. 
 
 IoT should be built to evolve, and in a way that can support emergent qualities. Expect for the system to grow and adapt within itself, and to be adapted and modified by its users. 
+
+<img src="img/mast.jpg">
+
+*See also: [http://www.thewavingcat.com/2016/06/26/fishermans-iot/](http://www.thewavingcat.com/2016/06/26/fishermans-iot/)
