@@ -2,7 +2,7 @@
 
 ### We looked at traditional fishing boats and what we can learn from them.
 
-*By Leonardo, Holly, and Peter*
+*By Leonardo Amico, Holly Robbins, and Peter Bihr at the Mozilla Open IoT Design Sprint in Anstruther, June 2016*
 
 <img src="img/boats_deck_flags.jpg">
 
